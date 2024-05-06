@@ -1,5 +1,7 @@
 In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
 
+`Important: When you open this application on your browser, sometimes the failure view may also be rendered. Note that this is done on the API on purpose by the developers for the users to also test the failure view, and is not some failure that they're facing while opening the website and trying to access the repo list. (Simply, this is not some Client Error / Server Error, it is just done on purpose)`
+
 ### Refer to the image below:
 
 <br/>
